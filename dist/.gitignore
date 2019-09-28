@@ -5,7 +5,9 @@
 #to ignore file
 /credentials.py
 
-#to ignore entire folder
+#to ignore all .txt files from 'text' folder
 text/*.txt
+
+#to ignore entire folder
 dupa/
 
